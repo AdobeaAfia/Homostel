@@ -1,8 +1,8 @@
-HOMOSTEL
+HOMESTEL
 
-HomestelHub is a web application designed to facilitate hostel and room booking for students. The platform aims to provide a seamless and efficient way for students to search, book, and manage their hostel accommodations. The app will allow students to browse available hostels, view room details, and make bookings online. Additionally, the app will provide features for hostel administrators to manage their inventory, update room availability, and communicate with students
+HomestelHub is a web application designed to facilitate hostel and room booking for students. The platform aims to provide a seamless and efficient way for students to search, book, and manage their hostel and any available converted homes made available for student accommodations. The app will allow students to browse available hostels and homes, view room details, and make bookings online. Additionally, the app will provide features for hostel and home administrators to manage their inventory, update room availability, and communicate with students
 
-Task - Full Stack webstack portfolio project(HOMOSTEL)
+Task - Full Stack webstack portfolio project(HOMESTEL)
 alx_africa
 The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
 
